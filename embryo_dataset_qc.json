@@ -1,0 +1,94 @@
+{
+  "zebrafish": {
+    "expression_file": "SRP055996/SRP055996.tsv",
+    "samples": 1138,
+    "genes": 31882,
+    "unique_gene_ids": 31882,
+    "non_finite_values": 0,
+    "nan_values": 0,
+    "negative_values": 0,
+    "zero_values": 0,
+    "zero_fraction": 0.0,
+    "entry_min": 0.008134,
+    "entry_max": 4.976743,
+    "gene_mean_quantiles": {
+      "p0": 0.1813,
+      "p25": 0.1915,
+      "p50": 0.2428,
+      "p75": 0.4798,
+      "p100": 4.9703
+    },
+    "sample_mean_quantiles": {
+      "p0": 0.3146,
+      "p25": 0.4512,
+      "p50": 0.4742,
+      "p75": 0.4833,
+      "p100": 0.5106
+    },
+    "sample_sum_quantiles": {
+      "p0": 10030.37,
+      "p25": 14384.23,
+      "p50": 15117.39,
+      "p75": 15407.75,
+      "p100": 16279.59
+    },
+    "top_10_log1p_variable_gene_ids": [
+      "ENSDARG00000117174",
+      "ENSDARG00000098613",
+      "ENSDARG00000109296",
+      "ENSDARG00000100808",
+      "ENSDARG00000100915",
+      "ENSDARG00000086463",
+      "ENSDARG00000114237",
+      "ENSDARG00000112702",
+      "ENSDARG00000034240",
+      "ENSDARG00000116076"
+    ]
+  },
+  "mouse": {
+    "expression_file": "ERP013381/ERP013381.tsv",
+    "samples": 1006,
+    "genes": 41249,
+    "unique_gene_ids": 41249,
+    "non_finite_values": 0,
+    "nan_values": 0,
+    "negative_values": 0,
+    "zero_values": 0,
+    "zero_fraction": 0.0,
+    "entry_min": 0.357073,
+    "entry_max": 182.460678,
+    "gene_mean_quantiles": {
+      "p0": 0.4594,
+      "p25": 0.4656,
+      "p50": 0.6214,
+      "p75": 2.598,
+      "p100": 182.3544
+    },
+    "sample_mean_quantiles": {
+      "p0": 2.3987,
+      "p25": 3.1471,
+      "p50": 3.181,
+      "p75": 3.2026,
+      "p100": 3.2776
+    },
+    "sample_sum_quantiles": {
+      "p0": 98944.54,
+      "p25": 129815.26,
+      "p50": 131214.8,
+      "p75": 132103.44,
+      "p100": 135196.2
+    },
+    "top_10_log1p_variable_gene_ids": [
+      "ENSMUSG00000047751",
+      "ENSMUSG00000031155",
+      "ENSMUSG00000023906",
+      "ENSMUSG00000045394",
+      "ENSMUSG00000031297",
+      "ENSMUSG00000031074",
+      "ENSMUSG00000052217",
+      "ENSMUSG00000029337",
+      "ENSMUSG00000024406",
+      "ENSMUSG00000048583"
+    ]
+  }
+}
